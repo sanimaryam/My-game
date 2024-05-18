@@ -1,0 +1,19 @@
+{
+  "name": "my-number-guess-game",
+  "version": "1.0.0",
+  "description": "my-number-guessing-game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sana Maryam",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12"
+  }
+}
